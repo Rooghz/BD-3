@@ -1,7 +1,5 @@
-# Simple express demo
+# AirFlow Task Management System
 
-> Express: fast, unopinionated, minimalist web framework for Node.js
+Objective
 
-This project shows a simple express server serving a single HTML page and using `express.static` to serve static files.
-
-Check out the [express documentation](https://expressjs.com/) for more information.
+Airflow is a company that is trying to create a task management system for its users. In this system, you need to add tasks, edit the priority and text of tasks, delete tasks, read the current state of tasks, sort tasks by priority, and filter tasks by priority.
